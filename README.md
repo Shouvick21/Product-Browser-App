@@ -232,7 +232,13 @@ UI is built using **Jetpack Compose Multiplatform**.
 
 # 📸 Screenshots
 
-*Add screenshots here if required.*
+## Screenshots
+
+### Home Screen
+![Home Screen](product_image.png)
+
+### Product Details
+![Product Details](product_desc.png)
 
 Example:
 
